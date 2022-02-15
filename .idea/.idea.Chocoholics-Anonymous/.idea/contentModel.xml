@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Chocoholics-Anonymous.1304398162.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CA_Database" t="Include">
+        <e p="SqlCommands.cs" t="Include" />
+      </e>
+      <e p="CA_DataDriver" t="Include">
+        <e p="MemberDriver.cs" t="Include" />
+        <e p="ProviderDriver.cs" t="Include" />
+        <e p="ReportDriver.cs" t="Include" />
+        <e p="ServiceDriver.cs" t="Include" />
+        <e p="TransactionDriver.cs" t="Include" />
+      </e>
+      <e p="CA_Helpers" t="Include">
+        <e p="IO.cs" t="Include" />
+        <e p="Loader.cs" t="Include" />
+      </e>
+      <e p="CA_Models" t="Include">
+        <e p="Member.cs" t="Include" />
+        <e p="Provider.cs" t="Include" />
+        <e p="Report.cs" t="Include" />
+        <e p="Service.cs" t="Include" />
+        <e p="Transaction.cs" t="Include" />
+      </e>
+      <e p="CA_ServiceManagers" t="Include">
+        <e p="MemberManager.cs" t="Include" />
+        <e p="ProviderManager.cs" t="Include" />
+        <e p="ReportManager.cs" t="Include" />
+        <e p="ServiceManager.cs" t="Include" />
+        <e p="TransactionManager.cs" t="Include" />
+      </e>
+      <e p="CA_System" t="Include">
+        <e p="System.cs" t="Include" />
+      </e>
+      <e p="Chocoholics-Anonymous.csproj" t="IncludeRecursive" />
+      <e p="Chocoholics-Anonymous.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Chocoholics-Anonymous.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="README.md" t="Include" />
+      <e p="Reports" t="Include">
+        <e p="Summary_Report_5-6-2020.md" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
